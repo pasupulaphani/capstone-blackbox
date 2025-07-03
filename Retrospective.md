@@ -1,5 +1,7 @@
+Code is available here: https://github.com/pasupulaphani/capstone-blackbox
 
-# Capstone Project: Bayesian Optimization
+
+# Capstone Project: Bayesian Optimization - Retrospective
 
 This project applied **Bayesian Optimization** to a range of real-world problems, evolving from random sampling to advanced acquisition strategies using custom Gaussian Process models. 
 

@@ -161,7 +161,7 @@ kernel = ConstantKernel(1.0) * RBF(length_scale=[1.0]*8)
 ### Key Learnings
 
 * **Kernel choice** is critical to GPR success.
-* Acquisition functions perform differently across domains—no one-size-fits-all.
+* Acquisition functions perform differently across domains no one-size-fits-all.
 * Modularizing the optimizer paid off significantly in later stages.
 
 ---
